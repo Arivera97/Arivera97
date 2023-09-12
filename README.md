@@ -1,7 +1,7 @@
 # Hola, Soy Álvaro Rivera Fernández👋👨
 
-¡Bienvenidos a mi perfil! Soy un desarrollador Full-Stack apasionado por la creación de aplicaciones y tecnologías web. Aquí puedes ingresar a mi [portfolio]([https://www.linkedin.com/in/alvaro-rivera-fernandez/](https://portfolio-arivera.netlify.app/)) .
-
+¡Bienvenidos a mi perfil! Soy un desarrollador Full-Stack apasionado por la creación de aplicaciones y tecnologías web. Aquí puedes ingresar a mi [portfolio]([https://portfolio-arivera.netlify.app/])💬 .
+(/)
 ## Sobre mí 👨🏻‍💻
 
 - 🔭 Actualmente, estoy en busqueda de mi primer empleo en el mundo TI.
