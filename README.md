@@ -1,8 +1,8 @@
-# Hola, Soy Álvaro Rivera Fernández 👋
+# Hola, Soy Álvaro Rivera Fernández👋👨
 
 ¡Bienvenidos a mi perfil! Soy un desarrollador Full-Stack apasionado por la creación de aplicaciones y tecnologías web. Aquí puedes ingresar a mi [portfolio]([https://www.linkedin.com/in/alvaro-rivera-fernandez/](https://portfolio-arivera.netlify.app/)) .
 
-## Sobre mí 🤔
+## Sobre mí 👨🏻‍💻
 
 - 🔭 Actualmente, estoy en busqueda de mi primer empleo en el mundo TI.
 - 👨🏻‍🎓 Soy Desarrollador Full-Stack Developer certificado por el bootcamp SoyHenry.
@@ -23,20 +23,23 @@
 - **Lenguajes de Programación:** JavaScript, Python, HTML, CSS.
 - **Frameworks y Bibliotecas:** React, Node.js, Express.js.
 - **Bases de Datos:** MongoDB, MySQL.
-- **Herramientas de Desarrollo:** Git, VSCode, Postman.
+- **Herramientas de Desarrollo:** Git, VSCode, Postman, Insomnia.
 
 ## Educación 🎓
 
 - SoyHenry - 2023 
   - Desarrollador Web Full-Stack Developer
+  
+- FreeCodeCamp - 2022
+  - Front-end Developer
 
-## Contacto 💬
+## Contacto 📫
 
 ¡Siempre estoy abierto a nuevas oportunidades y colaboraciones! No dudes en contactarme:
 
 - LinkedIn: [Mi perfil de LinkedIn](https://www.linkedin.com/in/alvaro-rivera-fernandez/)
 
-¡Gracias por visitar mi perfil!
+👋¡Gracias por visitar mi perfil!👋
 <!--
 **Arivera97/Arivera97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,7 +50,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
