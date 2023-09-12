@@ -1,3 +1,5 @@
+![image](https://github.com/Arivera97/Arivera97/assets/105229862/ef46f171-a77c-4922-bb01-48b15eacf79d)
+
 # Hola, Soy Álvaro Rivera Fernández👋👨
 
 ¡Bienvenidos a mi perfil! Soy un desarrollador Full-Stack apasionado por la creación de aplicaciones y tecnologías web. [Aquí puedes ingresar a mi portfolio](https://portfolio-arivera.netlify.app/)🚀
