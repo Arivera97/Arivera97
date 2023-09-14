@@ -14,8 +14,12 @@
 
 ## Experiencia 🌱
 
+![image](https://github.com/Arivera97/Arivera97/assets/105229862/6f51134c-ce06-45a1-bde8-2582750a14ce)
+
 - D'lujo - 2023 [ https://dlujo-app.netlify.app/ ]
   -D'lujo es una aplicación desarrollada utilizando las tecnologías React.js, Node.js y PostgreSQL. Este proyecto representa nuestro proyecto final de venta de hardware para computadoras, y fue realizado en colaboración por un equipo compuesto por 5 miembros en las áreas de front-end y back-end.
+
+![image](https://github.com/Arivera97/Arivera97/assets/105229862/6f50a8da-876b-4fb6-9236-ce746736da1b)
 
 - Soul-Music - 2023 [ https://soul-music-pf.netlify.app/ ]
   - Soul-Music es un trabajo en equipo, donde cada uno de nuestros miembros aportó su experiencia y pasión. Utilizando las tecnologías de React, Node.js y PostgreSQL, colaboramos estrechamente para dar vida a esta emocionante aplicación de música.
